@@ -1,6 +1,8 @@
 # todo_app
 
-A new Flutter project.
+A Dynamic Flutter Application for daily ToDo Checklists names ToDoss.
+Structured upon REST Api this application maintain your todos in an efficient way.
+Adding Updating and Deleting? No worries ToDoss is here for your help.
 
 ## Getting Started
 
